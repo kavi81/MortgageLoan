@@ -1,0 +1,1 @@
+default: --color -r features --format html -o JIRA_Page_Object_Results.html
